@@ -6,8 +6,7 @@
 그래서 내가 누구인지, 나의 소개글, 18주 간의 계획을 한눈에 나타내기 위해
 
 이미지와 그림을 적극 활용하였습니다.
-![a_tag](https://user-images.githubusercontent.com/38703262/202440664-ddde6202-b1ce-4396-87bb-a8aa56dba622.png)
-![a_tag_css](https://user-images.githubusercontent.com/38703262/202440717-63ac1141-1a53-411b-8e00-2f046fb9019d.png)
+
 ![intro_1](https://user-images.githubusercontent.com/38703262/202440726-66dbedbf-c323-43f9-8e22-f4c62cc8c725.png)
 ![plan_1](https://user-images.githubusercontent.com/38703262/202440761-dcf90c81-e900-4bbb-afab-a033fa99673f.png)
 ![intro_3](https://user-images.githubusercontent.com/38703262/202440764-95e8d70e-575c-47db-9146-1340dac3e3a4.png)
@@ -52,18 +51,8 @@
 
 # HTML/CSS 기술 중심 구현 설명
 ## 1. who is 김서현 부분
-    .header-li a {
-      color: white;
-      text-decoration: none;
-    }
-    .header-li a:hover {
-      color: rgb(7, 245, 7);
-      text-decoration: underline;
-    }
-    .header-li a:active {
-      color: red;
-      text-decoration: none;
-    }
+   ![a_tag](https://user-images.githubusercontent.com/38703262/202440664-ddde6202-b1ce-4396-87bb-a8aa56dba622.png)
+![a_tag_css](https://user-images.githubusercontent.com/38703262/202440717-63ac1141-1a53-411b-8e00-2f046fb9019d.png)
 저의 정보들이 들어가있고, 각각의 주소는 a태그로 링크를 걸었습니다.
 
 사용자 환경을 생각하여, 
