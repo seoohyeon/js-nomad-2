@@ -6,6 +6,16 @@
 그래서 내가 누구인지, 나의 소개글, 18주 간의 계획을 한눈에 나타내기 위해
 
 이미지와 그림을 적극 활용하였습니다.
+![a_tag](https://user-images.githubusercontent.com/38703262/202440664-ddde6202-b1ce-4396-87bb-a8aa56dba622.png)
+![a_tag_css](https://user-images.githubusercontent.com/38703262/202440717-63ac1141-1a53-411b-8e00-2f046fb9019d.png)
+![intro_1](https://user-images.githubusercontent.com/38703262/202440726-66dbedbf-c323-43f9-8e22-f4c62cc8c725.png)
+![plan_1](https://user-images.githubusercontent.com/38703262/202440761-dcf90c81-e900-4bbb-afab-a033fa99673f.png)
+![intro_3](https://user-images.githubusercontent.com/38703262/202440764-95e8d70e-575c-47db-9146-1340dac3e3a4.png)
+![intro_2](https://user-images.githubusercontent.com/38703262/202440765-c7d568a7-4f13-4bbc-9b9a-30a13deebdbb.png)
+![plan_5](https://user-images.githubusercontent.com/38703262/202440768-8ffdddd5-2707-40a5-b282-f9ec8277291c.png)
+![plan_4](https://user-images.githubusercontent.com/38703262/202440773-8eac29d4-7511-47c5-9b6b-19df169ff6dd.png)
+![plan_3](https://user-images.githubusercontent.com/38703262/202440775-92d87bef-5310-4f2e-821b-e40abb95bf9d.png)
+![plan_2](https://user-images.githubusercontent.com/38703262/202440778-67afbeec-d710-44ce-9c45-78068e9d3386.png)
 
 
 # 목표를 이루기 위한 과정에서 어려운 점 및 극복 방법
