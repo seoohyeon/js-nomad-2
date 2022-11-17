@@ -8,9 +8,6 @@
 이미지와 그림을 적극 활용하였습니다.
 
 
-
-
-
 # 목표를 이루기 위한 과정에서 어려운 점 및 극복 방법
 진행 과정에 있어, 디자인적인 요소부터 기능까지 생각을 하는데,
 
@@ -61,7 +58,7 @@ active를 이용하여 클릭시에는 line이 사라지고 빨간색이 나타�
 
 
 ## 2. Introduction 부분 
-3가지 그림으로 저를 표현해보았습니다.
+3가지 그림으로 저를 표현해보았습니다.<br>
     ![intro_1](https://user-images.githubusercontent.com/38703262/202440726-66dbedbf-c323-43f9-8e22-f4c62cc8c725.png)
 ![intro_2](https://user-images.githubusercontent.com/38703262/202440765-c7d568a7-4f13-4bbc-9b9a-30a13deebdbb.png)
 ![intro_3](https://user-images.githubusercontent.com/38703262/202440764-95e8d70e-575c-47db-9146-1340dac3e3a4.png)
@@ -135,7 +132,7 @@ keyframes에 애니메이션 이름과 움직임 동작을 지정해주었습니
 
 또, 오른쪽 아래에는 div로 top기능을 만들어 웹페이지 가장 상단으로 갈 수 있도록 하였습니다.
 
-
+<br>
 끝으로 footer 부분에는
 
 간단한 구분기호를 위해 hr로 선을 그엇고
