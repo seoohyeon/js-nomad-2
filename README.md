@@ -77,7 +77,7 @@ KSH2.css 파일을 따로 만들어서 꾸며주었고
 
 ## 3. 18 Weeks Plan 부분
 
-### 3-1 
+### 3-1. 계획 요약정리
 ![plan_1](https://user-images.githubusercontent.com/38703262/202440761-dcf90c81-e900-4bbb-afab-a033fa99673f.png)
 ![plan_2](https://user-images.githubusercontent.com/38703262/202440778-67afbeec-d710-44ce-9c45-78068e9d3386.png)
 
@@ -93,9 +93,9 @@ justify-content, align-items 모두 center로 이용하였습니다.
 
 div전체의 class에 공통된 모든 속성을 주었고 나머지는 각각 속성을 주기위해
 
-:nth-chlid(숫자)를 이용하였습니다.<br>
+:nth-chlid(숫자)를 이용하였습니다.<br><br>
 
-### 3-2
+### 3-2. 계획 Open/Close 기능
 ![plan_3](https://user-images.githubusercontent.com/38703262/202440775-92d87bef-5310-4f2e-821b-e40abb95bf9d.png)
 ![plan_4](https://user-images.githubusercontent.com/38703262/202440773-8eac29d4-7511-47c5-9b6b-19df169ff6dd.png)<br>
 또, 계획의 구체적인 설명이 너무 길다보니, js없이 펼쳤다 숨겼다 하기위하여
@@ -116,9 +116,9 @@ label 태그를 추가하여 클릭이 용이하게 해주고
 
 속성으로 for에 input에 대한 name을 추가했습니다.
 
-그래서 label을 클릭할 때마다 계획설명글(details)이 사라졌다 보였다 반복합니다. <br>
-
-### 3-3
+그래서 label을 클릭할 때마다 계획설명글(details)이 사라졌다 보였다 반복합니다. <br><br>
+<
+### 3-3. 좌우이동 Animation
 ![plan_5](https://user-images.githubusercontent.com/38703262/202440768-8ffdddd5-2707-40a5-b282-f9ec8277291c.png)<br>
 마지막에는 움직임을 주고 싶어, 애니메이션을 이용하였습니다.
 
@@ -128,10 +128,10 @@ keyframes에 애니메이션 이름과 움직임 동작을 지정해주었습니
 
 애니메이션 지속시간은 3초, 무한반복, 방향은 갔다가 반대로 가도록 하였습니다.
 
-또, 오른쪽 아래에는 div로 top기능을 만들어 웹페이지 가장 상단으로 갈 수 있도록 하였습니다.
+또, 오른쪽 아래에는 div로 top기능을 만들어 웹페이지 가장 상단으로 갈 수 있도록 하였습니다.<br><br>
 
-<br>
-## footer 부분
+
+## 4. footer 부분
 
 간단한 구분기호를 위해 hr로 선을 그엇고
 
