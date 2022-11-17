@@ -7,14 +7,8 @@
 
 이미지와 그림을 적극 활용하였습니다.
 
-![intro_1](https://user-images.githubusercontent.com/38703262/202440726-66dbedbf-c323-43f9-8e22-f4c62cc8c725.png)
-![plan_1](https://user-images.githubusercontent.com/38703262/202440761-dcf90c81-e900-4bbb-afab-a033fa99673f.png)
-![intro_3](https://user-images.githubusercontent.com/38703262/202440764-95e8d70e-575c-47db-9146-1340dac3e3a4.png)
-![intro_2](https://user-images.githubusercontent.com/38703262/202440765-c7d568a7-4f13-4bbc-9b9a-30a13deebdbb.png)
-![plan_5](https://user-images.githubusercontent.com/38703262/202440768-8ffdddd5-2707-40a5-b282-f9ec8277291c.png)
-![plan_4](https://user-images.githubusercontent.com/38703262/202440773-8eac29d4-7511-47c5-9b6b-19df169ff6dd.png)
-![plan_3](https://user-images.githubusercontent.com/38703262/202440775-92d87bef-5310-4f2e-821b-e40abb95bf9d.png)
-![plan_2](https://user-images.githubusercontent.com/38703262/202440778-67afbeec-d710-44ce-9c45-78068e9d3386.png)
+
+
 
 
 # 목표를 이루기 위한 과정에서 어려운 점 및 극복 방법
@@ -68,17 +62,9 @@ active를 이용하여 클릭시에는 line이 사라지고 빨간색이 나타�
 
 ## 2. Introduction 부분 
 3가지 그림으로 저를 표현해보았습니다.
-    <div class="intro">
-                <ul class="intro-ul">
-                  <li>
-                    <a href="./KSH2.html">
-                      <figure>
-                        <img src="./img/project_alone.png" alt="">
-                        <figcaption>I was alone.</figcaption>
-                      </figure>
-                    </a>
-                  </li>
-                  ...
+    ![intro_1](https://user-images.githubusercontent.com/38703262/202440726-66dbedbf-c323-43f9-8e22-f4c62cc8c725.png)
+![intro_2](https://user-images.githubusercontent.com/38703262/202440765-c7d568a7-4f13-4bbc-9b9a-30a13deebdbb.png)
+![intro_3](https://user-images.githubusercontent.com/38703262/202440764-95e8d70e-575c-47db-9146-1340dac3e3a4.png)
 그림에 마우스를 올리면, hover를 이용하여 처음에 숨겨진 설명글이 보이도록
 
 하였고, position: absolute를 주어 설명글창과 이미지가 겹치게 처리하였습니다.
@@ -96,7 +82,11 @@ KSH2.css 파일을 따로 만들어서 꾸며주었고
 통일성을 위해 3가지 html의 class명이 같도록 지정하고, 모두 KSH2.css를 이용하였습니다.
 
 
-18 Weeks Plan 부분에서는 한눈에 저의계획을 요약하여 드러내고자
+## 3. 18 Weeks Plan 부분
+![plan_1](https://user-images.githubusercontent.com/38703262/202440761-dcf90c81-e900-4bbb-afab-a033fa99673f.png)
+![plan_2](https://user-images.githubusercontent.com/38703262/202440778-67afbeec-d710-44ce-9c45-78068e9d3386.png)
+
+한눈에 저의계획을 요약하여 드러내고자
 
 div를 이용해 계획을 데이터 이미지화 시켰습니다.
 
@@ -111,6 +101,8 @@ div전체의 class에 공통된 모든 속성을 주었고 나머지는 각각 �
 :nth-chlid(숫자)를 이용하였습니다.
 
 
+![plan_3](https://user-images.githubusercontent.com/38703262/202440775-92d87bef-5310-4f2e-821b-e40abb95bf9d.png)
+![plan_4](https://user-images.githubusercontent.com/38703262/202440773-8eac29d4-7511-47c5-9b6b-19df169ff6dd.png)
 또, 계획의 구체적인 설명이 너무 길다보니, js없이 펼쳤다 숨겼다 하기위하여
 
 라디오헤드 checkbox를 이용하였습니다.
@@ -132,6 +124,7 @@ label 태그를 추가하여 클릭이 용이하게 해주고
 그래서 label을 클릭할 때마다 계획설명글(details)이 사라졌다 보였다 반복합니다. 
 
 
+![plan_5](https://user-images.githubusercontent.com/38703262/202440768-8ffdddd5-2707-40a5-b282-f9ec8277291c.png)
 마지막에는 움직임을 주고 싶어, 애니메이션을 이용하였습니다.
 
 keyframes에 애니메이션 이름과 움직임 동작을 지정해주었습니다.
@@ -139,6 +132,8 @@ keyframes에 애니메이션 이름과 움직임 동작을 지정해주었습니
 간단하게 좌우로 왔다갔다 하기위해 left 20% ~ 60%로 해주었고
 
 애니메이션 지속시간은 3초, 무한반복, 방향은 갔다가 반대로 가도록 하였습니다.
+
+또, 오른쪽 아래에는 div로 top기능을 만들어 웹페이지 가장 상단으로 갈 수 있도록 하였습니다.
 
 
 끝으로 footer 부분에는
