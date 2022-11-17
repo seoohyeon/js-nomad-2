@@ -75,7 +75,7 @@ KSH2.css 파일을 따로 만들어서 꾸며주었고
 통일성을 위해 3가지 html의 class명이 같도록 지정하고, 모두 KSH2.css를 이용하였습니다.
 
 
-## 3. 18 Weeks Plan 부분
+## 3. Week Plan 부분
 
 ### 3-1. 계획 요약정리
 ![plan_1](https://user-images.githubusercontent.com/38703262/202440761-dcf90c81-e900-4bbb-afab-a033fa99673f.png)
