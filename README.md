@@ -41,9 +41,20 @@
 
 
 # HTML/CSS 기술 중심 구현 설명
-who is 김서현 부분에서는 저의 정보들이 들어가있고, 
-
-각각의 주소는 a태그로 링크를 걸었습니다.
+## 1. who is 김서현 부분
+    .header-li a {
+      color: white;
+      text-decoration: none;
+    }
+    .header-li a:hover {
+      color: rgb(7, 245, 7);
+      text-decoration: underline;
+    }
+    .header-li a:active {
+      color: red;
+      text-decoration: none;
+    }
+저의 정보들이 들어가있고, 각각의 주소는 a태그로 링크를 걸었습니다.
 
 사용자 환경을 생각하여, 
 
