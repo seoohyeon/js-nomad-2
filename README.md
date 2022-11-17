@@ -67,8 +67,19 @@ active를 이용하여 클릭시에는 line이 사라지고 빨간색이 나타�
 현재 페이지는 그대로 남아있습니다. a태그에 target에 _blank를 주어 나타낼 수 있었습니다.
 
 
-Introduction 부분에서는 3가지 그림으로 저를 표현해보았습니다.
-
+## 2. Introduction 부분 
+3가지 그림으로 저를 표현해보았습니다.
+    <div class="intro">
+                <ul class="intro-ul">
+                  <li>
+                    <a href="./KSH2.html">
+                      <figure>
+                        <img src="./img/project_alone.png" alt="">
+                        <figcaption>I was alone.</figcaption>
+                      </figure>
+                    </a>
+                  </li>
+                  ...
 그림에 마우스를 올리면, hover를 이용하여 처음에 숨겨진 설명글이 보이도록
 
 하였고, position: absolute를 주어 설명글창과 이미지가 겹치게 처리하였습니다.
