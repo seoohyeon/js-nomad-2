@@ -61,8 +61,8 @@ active를 이용하여 클릭시에는 line이 사라지고 빨간색이 나타�
 
 position: absolute를 주어 설명글창과 이미지가 겹치게 처리하였습니다.
 
-각각의 그림들을 누르면 세부적인 설명을 볼 수 있는 새 창으로 이동합니다.
-![intro_3](https://user-images.githubusercontent.com/38703262/202440764-95e8d70e-575c-47db-9146-1340dac3e3a4.png)<br><br><br>
+각각의 그림들을 누르면 세부적인 설명을 볼 수 있는 새 창으로 이동합니다.<br>
+![intro_3](https://user-images.githubusercontent.com/38703262/202440764-95e8d70e-575c-47db-9146-1340dac3e3a4.png)<br>
 
 html로 각 페이지들을 만들어 a태그로 연결시켜 주었습니다.
 
